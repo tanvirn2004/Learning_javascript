@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 2</title>
+    <script src="2JS.js"></script>
+</head>
+<body>
+    <p id="update"></p>
+    <script>
+        document.querySelector('#update').innerHTML = 'Hello ' + name;
+    </script>
+</body>
+</html>
