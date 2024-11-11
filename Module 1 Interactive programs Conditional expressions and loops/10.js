@@ -25,4 +25,5 @@ let targetSum = parseInt(prompt("Enter the sum you're interested in:"), 10);
 
 let probability = calculateProbability(numDice, targetSum);
 
+
 document.getElementById("result").textContent = `Probability to get sum ${targetSum} with ${numDice} dice is ${probability}%`;
