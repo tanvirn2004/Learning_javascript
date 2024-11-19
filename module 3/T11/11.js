@@ -13,8 +13,8 @@ const picArray = [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros.',
     image: {
-      large: 'img/pic1.jpg',
-      medium: 'thumbnails/pic1.jpg',
+      large: 'img/1.jpg',
+      medium: 'thumbnails/1.jpg',
     },
   },
   {
@@ -23,8 +23,8 @@ const picArray = [
     description:
       'Donec dignissim tincidunt nisl, non scelerisque massa pharetra ut. Sed vel velit ante. Aenean quis viverra magna. Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Vestibulum tincidunt sapien eu ipsum tincidunt pulvinar. ',
     image: {
-      large: 'img/pic2.jpg',
-      medium: 'thumbnails/pic2.jpg',
+      large: 'img/2.jpg',
+      medium: 'thumbnails/2.jpg',
     },
   },
   {
@@ -33,8 +33,8 @@ const picArray = [
     description:
       'Phasellus imperdiet nunc tincidunt molestie vestibulum. Donec dictum suscipit nibh. Sed vel velit ante. Aenean quis viverra magna. Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. ',
     image: {
-      large: 'img/pic3.jpg',
-      medium: 'thumbnails/pic3.jpg',
+      large: 'img/3.jpg',
+      medium: 'thumbnails/3.jpg',
     },
   },
   {
@@ -43,8 +43,8 @@ const picArray = [
     description:
       'Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ',
     image: {
-      large: 'img/pic4.jpg',
-      medium: 'thumbnails/pic4.jpg',
+      large: 'img/4.jpg',
+      medium: 'thumbnails/4.jpg',
     },
   },
   {
@@ -53,8 +53,8 @@ const picArray = [
     description:
       'Sed vel velit ante. Aenean quis viverra magna. Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Vestibulum tincidunt sapien eu ipsum tincidunt pulvinar. Donec dignissim tincidunt nisl, non scelerisque massa pharetra ut. ',
     image: {
-      large: 'img/pic5.jpg',
-      medium: 'thumbnails/pic5.jpg',
+      large: 'img/5.jpg',
+      medium: 'thumbnails/5.jpg',
     },
   },
   {
@@ -63,8 +63,8 @@ const picArray = [
     description:
       'Sed vel velit ante. Aenean quis viverra magna. Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Phasellus imperdiet nunc tincidunt molestie vestibulum. Donec dictum suscipit nibh.',
     image: {
-      large: 'img/pic6.jpg',
-      medium: 'thumbnails/pic6.jpg',
+      large: 'img/6.jpg',
+      medium: 'thumbnails/6.jpg',
     },
   },
   {
@@ -73,8 +73,8 @@ const picArray = [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales enim eget leo condimentum vulputate. Sed lacinia consectetur fermentum. Vestibulum lobortis purus id nisi mattis posuere. Praesent sagittis justo quis nibh ullamcorper, eget elementum lorem consectetur. Pellentesque eu consequat justo, eu sodales eros.',
     image: {
-      large: 'img/pic7.jpg',
-      medium: 'thumbnails/pic7.jpg',
+      large: 'img/7.jpg',
+      medium: 'thumbnails/7.jpg',
     },
   },
   {
@@ -83,8 +83,8 @@ const picArray = [
     description:
       'Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Vestibulum tincidunt sapien eu ipsum tincidunt pulvinar. Donec dignissim tincidunt nisl, non scelerisque massa pharetra ut. Sed vel velit ante. Aenean quis viverra magna. ',
     image: {
-      large: 'img/pic8.jpg',
-      medium: 'thumbnails/pic8.jpg',
+      large: 'img/8.jpg',
+      medium: 'thumbnails/8.jpg',
     },
   },
   {
@@ -93,8 +93,8 @@ const picArray = [
     description:
       'Praesent eget cursus urna. Ut rhoncus interdum dolor non tincidunt. Sed vehicula consequat facilisis. Pellentesque pulvinar sem nisl, ac vestibulum erat rhoncus id. Phasellus imperdiet nunc tincidunt molestie vestibulum. Donec dictum suscipit nibh. Sed vel velit ante. Aenean quis viverra magna. ',
     image: {
-      large: 'img/pic9.jpg',
-      medium: 'thumbnails/pic9.jpg',
+      large: 'img/9.jpg',
+      medium: 'thumbnails/9.jpg',
     },
   },
 ];

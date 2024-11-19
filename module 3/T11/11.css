@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: #f0ddd5;
+  background-color: darkslategray;
 }
 
 .container {
@@ -14,13 +14,13 @@ body {
 }
 
 header {
-  background-color: #3ea9dd;
+  background-color: black;
   padding: 1rem;
   color: #fff;
 }
 
 main {
-  background-color: #fff;
+  background-color: lavenderblush;
   padding: 1rem;
 }
 
@@ -67,7 +67,7 @@ figcaption {
 }
 
 footer {
-  background-color: #3ea9dd;
+  background-color: navajowhite;
   text-align: center;
   padding: 1rem;
 }
@@ -93,6 +93,6 @@ dialog span {
   right: 2rem;
   font-size: 2rem;
   text-decoration: none;
-  color: #fff;
+  color: white;
   filter: drop-shadow(2px 2px 2px #000);
 }
